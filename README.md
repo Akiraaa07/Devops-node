@@ -106,3 +106,8 @@ Corpo (body) em formato JSON:
 Endpoint: http://localhost:3000/api/pacientes/{id}
 Método: DELETE
 Parâmetro: {id} (substitua com o ID do paciente que deseja deletar)
+
+
+Configuração do Banco de Dados na Azure:
+
+A aplicação utiliza um banco de dados hospedado na Azure para armazenar as informações dos médicos e pacientes. Certifique-se de configurar corretamente as variáveis de ambiente ou arquivos de configuração para conectar à instância do banco de dados na Azure.
