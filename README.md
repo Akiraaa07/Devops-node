@@ -134,8 +134,4 @@ Utilize ferramentas como [Postman](https://www.postman.com/) ou [Insomnia](https
 ## Contribuições
 Sinta-se livre para contribuir com melhorias ou novas funcionalidades!
 
----
-
-## Licença
-Este projeto está sob a licença MIT.
 
